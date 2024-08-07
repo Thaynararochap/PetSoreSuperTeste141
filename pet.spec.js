@@ -19,7 +19,7 @@ describe('API PetStore Swagger - Entidade Pet', () => {
         // Funções de Teste em Si
  
  
-    }) // Final do método POST
+    }) // Final do método POST.
 
  
 }) // termina a describe
