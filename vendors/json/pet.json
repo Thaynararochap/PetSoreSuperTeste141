@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "category": {
+      "id": 541902001,
+      "name": "garro"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+  criei a pasta vendors e dentro dela o arquivo json
